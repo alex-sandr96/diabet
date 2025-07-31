@@ -1,0 +1,5 @@
+<form method="post" action="send.php">
+   <input type="text" name="name">
+   <input type="tel" name="phone">
+   <button type="submit">Замовити</button>
+</form>
